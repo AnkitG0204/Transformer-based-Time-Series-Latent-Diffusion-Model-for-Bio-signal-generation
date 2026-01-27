@@ -11,4 +11,5 @@ All the data could not be uploaded due to size constraints. Only S class signals
 
 
 [Report.pdf](https://github.com/AnkitGundewar/Transformer-based-Time-Series-Latent-Diffusion-Model-for-Bio-signal-generation/blob/d100456868041c8330e9121357a46bdaea2d136f/CS7150_Project_Final.pdf)
+
 [Presentation.pdf](https://github.com/AnkitGundewar/Transformer-based-Time-Series-Latent-Diffusion-Model-for-Bio-signal-generation/blob/d100456868041c8330e9121357a46bdaea2d136f/CS7150_ProjectPresentation_Final.pdf)
